@@ -55,7 +55,7 @@ myGenerator := epoch.NowGenerator
 myGenerator := epoch.GenerationFunc(func() epoch.Epoch {
     // do something
     // return some time.Time value
-}) // wraps time.Now in a epoch.GenerationFunc
+})
 ```
 
 ## Running tests
