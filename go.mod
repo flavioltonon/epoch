@@ -1,4 +1,4 @@
-module epoch
+module github.com/flavioltonon/epoch
 
 go 1.20
 
